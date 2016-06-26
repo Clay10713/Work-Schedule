@@ -1,0 +1,7 @@
+# Work-Schedule
+
+Work Schedule vb.net program
+//This application is based on a model for scheduling workers to meet daily requirements for a 7-day week, with each
+worker working 5 days per week. Some of the workers can have nonconsecutive days off. The Report worksheet on this application 
+includes a sensitivity analysis on the ratio of the weekend wage rate to the weekday wage rate.
+
